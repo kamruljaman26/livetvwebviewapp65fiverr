@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/rate_app_id"
+        android:checkable="true"
+        android:title="রেট দিন"
+        android:icon="@drawable/ic_sad"
+        />
+
+    <item android:id="@+id/share_app_id"
+        android:checkable="true"
+        android:title="শেয়ার দিন"
+        android:icon="@drawable/ic_sad"
+        />
+
+</menu>
